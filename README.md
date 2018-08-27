@@ -1,4 +1,83 @@
-## Welcome to GitHub Pages
+## Willkommen bei Technogirls
+
+Technogirls ist eine Computer-AG für Mädchen am [Bertolt-Brecht-Gymnasium Dresden](https://bebe-dresden.de/)
+
+Wir treffen uns immer Montags um 13:30 (Anfänger) und 14:30 (Fortgeschrittene) im CK1 im Nebengebäude.
+
+Im letzten Schuljahr haben wir mit 12 Mädchen Projekte zu folgenden Themen gemacht.
+
+## Projekte
+
+### Alice 3D
+
+* Einführung
+* Eigene Figur mit Animationen
+* Eigene Geschichte / Landschaft
+
+### Scratch
+
+* Uhr
+* Rennspiel
+* Orchester
+* Geisterstunde
+
+
+
+### Spiel: Fireboy & Watergirl
+
+* https://scratch.mit.edu/projects/221125037/#editor
+
+### Calliope
+
+* Lärmampel
+* Fledermaus Abstandsmesser
+* Smileys senden
+* Würfel
+* Zahlen-Rate-Spiel
+* Timer Countdown
+* Disco-LED
+* Neopixel
+* Musik (Noten)
+
+### Sonic PI
+
+* Einführung
+* Eigenes Lied
+
+
+### Pixel-Art (Piskel-App)
+
+* https://www.piskelapp.com/
+* Einführung (Tutorials von Youtube [1](https://www.youtube.com/watch?v=lJN2C7-dyxE), [2](https://youtu.be/YClG-LR0f_U?t=33s))
+* Eigenes Bild
+* Eigene Animationen
+
+### Jumping Sumo
+
+* Code von Devoxx4Kids
+* Direktes Steuern der Sumos
+* Scratch mit speziellen Blöcken
+* Kurs aufgebaut aus Schulheftern,-bücher, Federmappen.
+* Navigation im Kurs
+
+### Spehro-Edu
+
+* Manuelle Steuerung von Sphero in Labyrinth
+* Einfache Programme (Figur Fahren, Farbwechsel, Farbe-Raten)
+
+## Minecraft - Mods
+
+* Material von [Devoxx4Kids](https://github.com/devoxx4kids/materials/tree/master/workshops/minecraft)
+* Setup Forge + Gradle + Eclipse
+* Test-Spielen
+* Wie funktioniert ein Mod (Events)
+
+* Nur angefangen
+* Spawn Diamond-Axt, Fackeln
+* Creeper explodiert nicht
+* Drachenei -> Ender-Drache
+
+## GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/technogirls/technogirls.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
