@@ -54,6 +54,8 @@ Im letzten Schuljahr haben wir mit 12 Mädchen Projekte zu folgenden Themen gema
 * Eigenes Bild
 * Eigene Animationen
 
+* Mehr Infos hier: https://github.com/technogirls/piskel
+
 ### Jumping Sumo
 
 * Code von Devoxx4Kids
@@ -66,6 +68,24 @@ Im letzten Schuljahr haben wir mit 12 Mädchen Projekte zu folgenden Themen gema
 
 * Manuelle Steuerung von Sphero in Labyrinth
 * Einfache Programme (Figur Fahren, Farbwechsel, Farbe-Raten)
+
+
+## Java mit jshell
+
+Inspiriert von Heinz's Kabutz freiem [Juppies (Java Guppies) Kurs](https://javaspecialists.teachable.com/p/juppies)
+
+Wir haben http://tryjshell.org genutzt, damit braucht man keine lokale Java 10 Installation.
+
+* Dank `var` keine Typdeklaration
+* Zahlen, Addition, Subtraktion, Multiplikation
+* Integer vs. Floating Point
+* String, substring, indexOf, split
+* Streams bes. IntStream, `toArray` für einfache Ausgabe.
+* List.of(), Map.of()
+
+```
+IntStream.range(1,10).filter(i -> i > 5).map(i -> i*i).toArray();
+```
 
 ## Minecraft - Mods
 
