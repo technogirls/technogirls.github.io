@@ -22,7 +22,6 @@ Im letzten Schuljahr haben wir mit 12 Mädchen Projekte zu folgenden Themen gema
 * Geisterstunde
 
 
-
 ### Spiel: Fireboy & Watergirl
 
 * https://scratch.mit.edu/projects/221125037/#editor
@@ -38,6 +37,9 @@ Im letzten Schuljahr haben wir mit 12 Mädchen Projekte zu folgenden Themen gema
 * Disco-LED
 * Neopixel
 * Musik (Noten)
+* Laufschrift
+* Weihnachtsbaumschmuck (Laufschrift, Lichter, Lichterkette, Musik) Calliopes mit verschiedenen Programmen als Baumanhänger.
+* Punkt bewegen mittels
 
 ### Sonic PI
 
@@ -76,6 +78,28 @@ Im letzten Schuljahr haben wir mit 12 Mädchen Projekte zu folgenden Themen gema
 * Spawn Diamond-Axt, Fackeln
 * Creeper explodiert nicht
 * Drachenei -> Ender-Drache
+
+
+## Was wollen wir diesen Jahr machen?
+
+### Anfänger Kurs (Montags 13:30-14:30)
+
+. Einführung / Demo (Calliope, Sumo, Sphero, Robo Turtles, Tinkerbots)
+. Calliope erste Schritte (Laufschrift, LED)
+. Calliope Würfel
+. Calliope Ratespiel
+. Calliope Regenbogen LED
+
+### Fortgeschrittener Kurs (Montags: 14:30-16:00, CK1)
+
+. Besprechung Projekte - Was hat uns Spass gemacht - Mehr davon
+. Mehr Projekte über 2-4 Wochen, als Paar
+. Texte und Fotos von den Mädchen für die Projekte
+. Minecraft - Modding
+. Spiele Programmieren
+. Processing
+. Robotersteuerung Calliope
+. AR-Drone
 
 ## GitHub Pages
 
