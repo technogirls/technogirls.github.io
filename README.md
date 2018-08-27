@@ -8,23 +8,46 @@ Im letzten Schuljahr haben wir mit 12 Mädchen Projekte zu folgenden Themen gema
 
 ## Projekte
 
+### Code.org
+
+Gibt es auch in Deutsch (bis auf die Videos) auf: https://code.org/ 
+
+Block-Programmierung mit:
+
+* Elsa & Anna (Schön für Winkel usw)
+* Plants vs. Zombies
+* Minecraft
+* Starwars (Gut wegen Interaktion + Spawn)
+* Flappy Bird (Sehr zu empfehlen, da man sich die eigene App dann auch behalten kann z.b. aufs Telefon)
+
 ### Alice 3D
+
+https://www.alice.org/
 
 * Einführung
 * Eigene Figur mit Animationen
 * Eigene Geschichte / Landschaft
 
+
+* [Mehr Infos im Projekt](alice)
+
 ### Scratch
+
+Wir haben Scratch Online genutzt, so dass wir die Dateien online speichern konnten.
+Lokal nur für Jumping Sumo wegen speziellen Bausteinen.
+
+https://scratch.mit.edu
 
 * Uhr
 * Rennspiel
 * Orchester
 * Geisterstunde
-
+* Spiel: Fireboy & Watergirl (3-4 Stunden)
 
 ### Spiel: Fireboy & Watergirl
 
 * https://scratch.mit.edu/projects/221125037/#editor
+* [Mehr Infos im Projekt](fireboy-watergirl)
 
 ### Calliope
 
@@ -43,7 +66,11 @@ Im letzten Schuljahr haben wir mit 12 Mädchen Projekte zu folgenden Themen gema
 * Weihnachtsbaumschmuck (Laufschrift, Lichter, Lichterkette, Musik) Calliopes mit verschiedenen Programmen als Baumanhänger.
 * Punkt bewegen mittels
 
+* [Mehr Infos im Projekt](calliope)
+
 ### Sonic PI
+
+https://sonic-pi.net/ (Besonders die Beispiele weiter unten)
 
 * Einführung
 * Eigenes Lied
@@ -52,6 +79,7 @@ Im letzten Schuljahr haben wir mit 12 Mädchen Projekte zu folgenden Themen gema
 ### Pixel-Art (Piskel-App)
 
 * https://www.piskelapp.com/
+
 * Einführung (Tutorials von Youtube [1](https://www.youtube.com/watch?v=lJN2C7-dyxE), [2](https://youtu.be/YClG-LR0f_U?t=33s))
 * Eigenes Bild
 * Eigene Animationen
@@ -68,9 +96,10 @@ Im letzten Schuljahr haben wir mit 12 Mädchen Projekte zu folgenden Themen gema
 
 ### Spehro-Edu
 
+https://edu.sphero.com/
+
 * Manuelle Steuerung von Sphero in Labyrinth
 * Einfache Programme (Figur Fahren, Farbwechsel, Farbe-Raten)
-
 
 ## Java mit jshell
 
