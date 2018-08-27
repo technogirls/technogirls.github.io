@@ -29,7 +29,7 @@ https://www.alice.org/
 * Eigene Geschichte / Landschaft
 
 
-* [Mehr Infos im Projekt](alice)
+* [Mehr Infos im Projekt](https://github.com/technogirls/alice)
 
 ### Scratch
 
@@ -47,11 +47,13 @@ https://scratch.mit.edu
 ### Spiel: Fireboy & Watergirl
 
 * https://scratch.mit.edu/projects/221125037/#editor
-* [Mehr Infos im Projekt](fireboy-watergirl)
+* [Mehr Infos im Projekt](https://github.com/technogirls/fireboy-watergirl)
 
 ### Calliope
 
 ![Pingo mit Calliope und Programm](https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/059/623/fill_730x380_bp1514561376_Teddy.jpg)
+
+* [Mehr Infos im Projekt](https://github.com/technogirls/calliope)
 
 * Lärmampel
 * Fledermaus Abstandsmesser
@@ -64,9 +66,7 @@ https://scratch.mit.edu
 * Musik (Noten)
 * Laufschrift
 * Weihnachtsbaumschmuck (Laufschrift, Lichter, Lichterkette, Musik) Calliopes mit verschiedenen Programmen als Baumanhänger.
-* Punkt bewegen mittels
-
-* [Mehr Infos im Projekt](calliope)
+* Punkt bewegen mittels Neigungssensor
 
 ### Sonic PI
 
@@ -88,11 +88,12 @@ https://sonic-pi.net/ (Besonders die Beispiele weiter unten)
 
 ### Jumping Sumo
 
-* Code von Devoxx4Kids
+* Code von [Devoxx4KidsDE](https://github.com/Devoxx4KidsDE/workshop-jumping-sumo)
+
 * Direktes Steuern der Sumos
 * Scratch mit speziellen Blöcken
-* Kurs aufgebaut aus Schulheftern,-bücher, Federmappen.
-* Navigation im Kurs
+* Parcour aufgebaut aus Schulheftern,-bücher, Federmappen.
+* Selbständiges Fahren durch den Parcour
 
 ### Spehro-Edu
 
@@ -100,6 +101,7 @@ https://edu.sphero.com/
 
 * Manuelle Steuerung von Sphero in Labyrinth
 * Einfache Programme (Figur Fahren, Farbwechsel, Farbe-Raten)
+* iPads von der Schule
 
 ## Java mit jshell
 
