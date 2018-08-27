@@ -28,6 +28,8 @@ Im letzten Schuljahr haben wir mit 12 Mädchen Projekte zu folgenden Themen gema
 
 ### Calliope
 
+![Pingo mit Calliope und Programm](https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/059/623/fill_730x380_bp1514561376_Teddy.jpg)
+
 * Lärmampel
 * Fledermaus Abstandsmesser
 * Smileys senden
