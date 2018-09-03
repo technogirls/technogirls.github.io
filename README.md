@@ -48,6 +48,7 @@ Beispielprojekte:
 
 * https://scratch.mit.edu/users/beberana/
 * https://scratch.mit.edu/users/bebe-fritzi/
+
 <!--
 * https://scratch.mit.edu/users/bebe-serena/
 * https://scratch.mit.edu/users/cuperundrabbat/
@@ -58,7 +59,6 @@ Beispielprojekte:
 * https://scratch.mit.edu/users/bebe-cara/
 * https://scratch.mit.edu/users/bebe-Flora/
 * https://scratch.mit.edu/users/bebe_victoria/
-
 -->
 
 ### Spiel: Fireboy & Watergirl
