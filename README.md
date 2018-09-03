@@ -44,6 +44,23 @@ https://scratch.mit.edu
 * Geisterstunde
 * Spiel: Fireboy & Watergirl (3-4 Stunden)
 
+Beispielprojekte:
+
+* https://scratch.mit.edu/users/beberana/
+* https://scratch.mit.edu/users/bebe-fritzi/
+<!--
+* https://scratch.mit.edu/users/bebe-serena/
+* https://scratch.mit.edu/users/cuperundrabbat/
+* https://scratch.mit.edu/users/technogirls1/
+* https://scratch.mit.edu/users/bebe-heleni/
+* https://scratch.mit.edu/users/bebe-victoria/
+* https://scratch.mit.edu/users/bebe-antonia/
+* https://scratch.mit.edu/users/bebe-cara/
+* https://scratch.mit.edu/users/bebe-Flora/
+* https://scratch.mit.edu/users/bebe_victoria/
+
+-->
+
 ### Spiel: Fireboy & Watergirl
 
 * https://scratch.mit.edu/projects/221125037/#editor
@@ -135,7 +152,9 @@ IntStream.range(1,10).filter(i -> i > 5).map(i -> i*i).toArray();
 
 ## Was wollen wir diesen Jahr machen?
 
-### Anfänger Kurs (Montags 13:30-14:30)
+**Montags: 14:30-16:00, CK1**
+
+### Anfänger
 
 1. Einführung / Demo (Calliope, Sumo, Sphero, Robo Turtles, Tinkerbots)
 2. Calliope erste Schritte (Laufschrift, LED)
@@ -143,7 +162,7 @@ IntStream.range(1,10).filter(i -> i > 5).map(i -> i*i).toArray();
 4. Calliope Ratespiel
 5. Calliope Regenbogen LED
 
-### Fortgeschrittener Kurs (Montags: 14:30-16:00, CK1)
+### Fortgeschrittene
 
 1. Besprechung Projekte - Was hat uns Spass gemacht - Mehr davon
 2. Mehr Projekte über 2-4 Wochen, als Paar
@@ -153,6 +172,7 @@ IntStream.range(1,10).filter(i -> i > 5).map(i -> i*i).toArray();
 5. Processing
 6. Robotersteuerung Calliope
 7. AR-Drone
+8. Processing: https://p5js.org/
 
 <!--
 
