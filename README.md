@@ -145,14 +145,14 @@ IntStream.range(1,10).filter(i -> i > 5).map(i -> i*i).toArray();
 
 ### Fortgeschrittener Kurs (Montags: 14:30-16:00, CK1)
 
-. Besprechung Projekte - Was hat uns Spass gemacht - Mehr davon
-. Mehr Projekte über 2-4 Wochen, als Paar
-. Texte und Fotos von den Mädchen für die Projekte
-. Minecraft - Modding
-. Spiele Programmieren
-. Processing
-. Robotersteuerung Calliope
-. AR-Drone
+1. Besprechung Projekte - Was hat uns Spass gemacht - Mehr davon
+2. Mehr Projekte über 2-4 Wochen, als Paar
+3. Texte und Fotos von den Mädchen für die Projekte
+4. Minecraft - Modding
+4. Spiele Programmieren
+5. Processing
+6. Robotersteuerung Calliope
+7. AR-Drone
 
 <!--
 
