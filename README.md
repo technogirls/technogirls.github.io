@@ -137,11 +137,11 @@ IntStream.range(1,10).filter(i -> i > 5).map(i -> i*i).toArray();
 
 ### Anfänger Kurs (Montags 13:30-14:30)
 
-. Einführung / Demo (Calliope, Sumo, Sphero, Robo Turtles, Tinkerbots)
-. Calliope erste Schritte (Laufschrift, LED)
-. Calliope Würfel
-. Calliope Ratespiel
-. Calliope Regenbogen LED
+1. Einführung / Demo (Calliope, Sumo, Sphero, Robo Turtles, Tinkerbots)
+2. Calliope erste Schritte (Laufschrift, LED)
+3. Calliope Würfel
+4. Calliope Ratespiel
+5. Calliope Regenbogen LED
 
 ### Fortgeschrittener Kurs (Montags: 14:30-16:00, CK1)
 
