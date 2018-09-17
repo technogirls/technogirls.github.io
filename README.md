@@ -1,8 +1,10 @@
+<img style="float: right;" src="./TechnoGirls-Logo.jpg">
+
 ## Willkommen bei Technogirls
 
 Technogirls ist eine Computer-AG für Mädchen am [Bertolt-Brecht-Gymnasium Dresden](https://bebe-dresden.de/)
 
-Wir (Anfänger und Fortgeschrittene) treffen uns immer **Montags um 14:30 bis 16:00 im CK1** im Nebengebäude.
+Wir (Anfänger und Fortgeschrittene) treffen uns immer **Montags um 14:30 bis 16:00 im CK1** im Nebengebäude [(Plakat)](./TechnoGirls-Plakat.jpg).
 
 Im letzten Schuljahr haben wir mit 12 Mädchen Projekte zu folgenden Themen gemacht.
 
