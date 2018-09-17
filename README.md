@@ -6,6 +6,24 @@ Wir (Anfänger und Fortgeschrittene) treffen uns immer **Montags um 14:30 bis 16
 
 Im letzten Schuljahr haben wir mit 12 Mädchen Projekte zu folgenden Themen gemacht.
 
+
+## Kommentare der Mädchen
+
+Von Rana:
+> TechnoGirls ist eine gute möglichkeit für mädchen programmieren zu lernen und es gibt auch
+keine Jungs die einen die ganze Zeit kritisieren und angeben weil sie schnell oder so sind!!!
+> Alice3d war cool, weil man mit 3d Figuren gearbeitet hat.Die Minecraft-Mods haben auch 
+Spaß gemacht und es war schön mit so vielen Leuten zusammen zu arbeiten.
+> Fireboy and Watergirl selbst zu machen war auch cool.:)
+
+Von Anna Lena:
+> TechnoGirls hat mir im Tc/Informatik Unterricht geholfen, wenn wir mit calliope herum gebastelt haben.
+> Bei Fireboy and Watergirl gab es ein paar Probleme aber es war deswegen noch lustiger.
+> Alice Scracht Calliope ,..... alles war ziemlich cool!
+> :)
+
+
+
 ## Projekte
 
 ### Code.org
