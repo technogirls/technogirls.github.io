@@ -29,6 +29,15 @@ Von Anna Lena:
 
 ## Projekte
 
+### Minecraft Texturen
+
+Wir hatten viel Spass daran, Minecraft Texturen zu verändern.
+Einfach mit einem Pixeleditor nach Lust und Laune anpassen.
+
+[Hier geht es zum Download](https://github.com/technogirls/brilliant-minecraft-textures)
+
+![](https://github.com/technogirls/brilliant-minecraft-textures/raw/master/world.png)
+
 ### Code.org
 
 Gibt es auch in Deutsch (bis auf die Videos) auf: https://code.org/ 
