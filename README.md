@@ -98,7 +98,7 @@ Beispielprojekte:
 
 ### Calliope
 
-![Pingo mit Calliope und Programm](https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/059/623/fill_730x380_bp1514561376_Teddy.jpg)
+![Pingo mit Calliope und Programm](./pingo-calliope.jpg)
 
 * [Mehr Infos im Projekt](https://github.com/technogirls/calliope)
 
