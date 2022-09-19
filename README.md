@@ -4,7 +4,7 @@
 
 Technogirls ist eine Computer-AG für Mädchen am [Bertolt-Brecht-Gymnasium Dresden](https://bebe-dresden.de/)
 
-Wir (Anfänger und Fortgeschrittene) treffen uns immer **Montags um 14:30 bis 16:00 im CK1** im Nebengebäude [(Plakat)](./TechnoGirls-Plakat.jpg).
+Wir (Anfänger und Fortgeschrittene) treffen uns immer **Montags um 14:30 bis 16:00 im CK3** im Nebengebäude [(Plakat)](./TechnoGirls-Plakat.jpg).
 
 Im letzten Schuljahr haben wir mit 12 Mädchen Projekte zu folgenden Themen gemacht.
 
@@ -44,11 +44,13 @@ Gibt es auch in Deutsch (bis auf die Videos) auf: https://code.org/
 
 Block-Programmierung mit:
 
-* Elsa & Anna (Schön für Winkel usw)
-* Plants vs. Zombies
+* Elsa & Anna (Schön für Winkel, Schleifen usw)
+* Erntespiel (Bedingungen)
+* Plants vs. Zombies (Bedingungen)
 * Minecraft
 * Starwars (Gut wegen Interaktion + Spawn)
 * Flappy Bird (Sehr zu empfehlen, da man sich die eigene App dann auch behalten kann z.b. aufs Telefon)
+* Dance Party (Macht viel Spass wegen der Musik + Grooves)
 
 ### Alice 3D
 
@@ -59,20 +61,28 @@ https://www.alice.org/
 * Eigene Geschichte / Landschaft
 
 
-* [Mehr Infos im Projekt](https://github.com/technogirls/alice)
+* [Mehr Infos im Projekt](alice.md)
 
 ### Scratch
 
-Wir haben Scratch Online genutzt, so dass wir die Dateien online speichern konnten.
-Lokal nur für Jumping Sumo wegen speziellen Bausteinen.
+Wir haben Scratch Online genutzt, so dass wir die Projekte online speichern konnten.
+
+Lokale Scratch Installation nur für [Jumping Sumo wegen speziellen Bausteinen](https://github.com/Devoxx4KidsDE/workshop-jumping-sumo-4-scratch)
 
 https://scratch.mit.edu
 
+* Bouncing Balls
 * Uhr
 * Rennspiel
 * Orchester
 * Geisterstunde
 * Spiel: Fireboy & Watergirl (3-4 Stunden)
+* Virusinfektionen
+
+Wir haben dazu Inspirationen aus den Büchern genutzt:
+
+* [MINT - Wissen gewinnt: Ganz easy programmieren lernen - Scratch](https://usborne.com/de/mint-wissen-gewinnt-ganz-easy-programmieren-lernen-scratch-9781789413069)
+* [Spiele Programmieren supereasy](https://www.dorlingkindersley.de/buch/carol-vorderman-jon-woodcock-spiele-programmieren-supereasy-9783831040124)
 
 Beispielprojekte:
 
